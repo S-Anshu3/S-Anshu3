@@ -26,26 +26,6 @@ Hi there 👋 I'm Anshu
 </p>
 
 
-## 🚀 Projects
-
-
-### 📝 To-Do App
-A simple and responsive task management application.
-
-Features:
-- Add tasks
-- Delete tasks
-- Mark completed
-- Local storage support
-
-
-### 🛒 ShopSphere
-E-commerce website built using HTML, CSS and JavaScript.
-
-
-### 🐍 Snake Game
-Classic snake game created using JavaScript.
-
 
 ## 📊 GitHub Stats
 
