@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">
+Hi there 👋 I'm Anshu
+</h1>
 
-<!--
-**S-Anshu3/S-Anshu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Web Developer | Learning New Technologies Every Day
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Frontend Projects**
+- 🌱 Learning **JavaScript, React & Backend Development**
+- 💡 Interested in Web Development and Software Engineering
+- ⚡ Fun fact: I love building things with code
+
+
+## 🛠️ Technologies
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode"/>
+</p>
+
+
+## 🚀 Projects
+
+
+### 📝 To-Do App
+A simple and responsive task management application.
+
+Features:
+- Add tasks
+- Delete tasks
+- Mark completed
+- Local storage support
+
+
+### 🛒 ShopSphere
+E-commerce website built using HTML, CSS and JavaScript.
+
+
+### 🐍 Snake Game
+Classic snake game created using JavaScript.
+
+
+## 📊 GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=S-Anshu3&show_icons=true&theme=tokyonight"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Anshu3&theme=tokyonight"/>
+
+
+## 🌐 Connect With Me
+
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+
+<a href="https://github.com/S-Anshu3">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+
+---
+
+⭐ Thanks for visiting my profile!
