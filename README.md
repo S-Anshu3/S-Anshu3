@@ -27,14 +27,6 @@ Hi there 👋 I'm Anshu
 
 
 
-## 📊 GitHub Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=S-Anshu3&show_icons=true&theme=tokyonight"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Anshu3&theme=tokyonight"/>
-
 
 ## 🌐 Connect With Me
 
