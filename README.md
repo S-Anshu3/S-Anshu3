@@ -10,7 +10,7 @@ Hi there 👋 I'm Anshu
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🔭 Currently working on **Frontend Projects**
 - 🌱 Learning **JavaScript, React & Backend Development**
