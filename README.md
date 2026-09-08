@@ -18,7 +18,7 @@ Hi there 👋 I'm Anshu
 - ⚡ Fun fact: I love building things with code
 
 
-## 🛠️ Technologies
+# 🛠️ Technologies
 
 
 <p>
